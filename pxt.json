@@ -1,0 +1,25 @@
+{
+    "name": "pxt-calliope-test1",
+    "version": "1.0.7",
+    "description": "test1 Functions",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "modem.ts",
+        "ext_serial.cpp",
+        "ext_serial.ts",
+        "_locales/de/pxt-calliope-test1-jsdoc-strings.json",
+        "_locales/de/pxt-calliope-test1-strings.json"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ferenc-hechler/pxt-calliope-test1.git"
+    },
+    "public": true
+}
