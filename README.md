@@ -1,4 +1,4 @@
-# Test1 functionality 1.2.1
+# Test4 functionality 1.2.7
 
 Minimal runnable extension with c++ code.
 
@@ -7,6 +7,7 @@ Minimal runnable extension with c++ code.
 see: 
 * https://www.hackster.io/MKlein/16-digitale-ein-ausgange-am-calliope-mini-custom-blocks-cd1e9e
 * https://makecode.com/defining-blocks
+* https://github.com/microsoft/microbit-touchdevelop/blob/master/EXTENSIONS.md
 
 
 ## License
