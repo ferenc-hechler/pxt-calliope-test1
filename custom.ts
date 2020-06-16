@@ -33,6 +33,7 @@ namespace custom {
      * @param value Beschreibe den Wert hier, eg: 5
      */    
     //% block
+    //% shim=custom::fib
     export function fib(value: number): number {
         return value <= 1 ? value : fib(value -1) + fib(value - 2);
     }

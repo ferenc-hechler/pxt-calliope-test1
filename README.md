@@ -1,6 +1,6 @@
 # Test1 functionality
 
-Version: 1.1.2
+Version: 1.1.3
 Minimal runnable extension with c++ code.
 
 ## custom blocks
