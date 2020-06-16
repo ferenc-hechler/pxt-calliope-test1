@@ -1,4 +1,4 @@
-# Test1 functionality 1.2.9
+# Test1 functionality 1.3.0
 
 Minimal runnable extension with c++ code.
 

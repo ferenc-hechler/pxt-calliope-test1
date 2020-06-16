@@ -27,7 +27,7 @@ namespace custom {
     //% block
     //% shim=custom::foo
     export function foo(s: string, f: number, e: MyEnum): void {
-        basic.showString("sim:foo 129")
+        basic.showString("sim:foo 130")
     }
 
     /**
@@ -37,6 +37,7 @@ namespace custom {
      * @param id2 Beschreibe die Parameter hier, eg: 2
      */    
     //% block
+    //% shim=custom::initnums
     export function initnums(id1: number, arr: number[], id2: number): void {
     	basic.showString("sim:initnums")
     }
