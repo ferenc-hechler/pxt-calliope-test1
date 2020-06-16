@@ -24,6 +24,7 @@ namespace custom {
      * @param e Beschreibe die Parameter hier
      */    
     //% block
+    //% shim=custom::foo
     export function foo(s: string, f: number, e: MyEnum): void {
         // Add code here
     }
