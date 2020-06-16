@@ -17,6 +17,7 @@ enum MyEnum {
  */
 //% weight=100 color=#0fbc11 icon=""
 namespace custom {
+	
     /**
      * TODO: Beschreibe deine Funktion hier
      * @param s Beschreibe die Parameter hier, eg: "Hello"
@@ -28,6 +29,18 @@ namespace custom {
     export function foo(s: string, f: number, e: MyEnum): void {
         basic.showString("sim:foo 127")
     }
+
+    /**
+     * TODO: Beschreibe deine Funktion hier
+     * @param id1 Beschreibe die Parameter hier, eg: 3
+     * @param arr Beschreibe die Parameter hier, eg: [6,6]
+     * @param id2 Beschreibe die Parameter hier, eg: 2
+     */    
+    //% block
+    export function initnums(id1: number, arr: number[], id2: number): void {
+    	basic.showString("sim:initnums")
+    }
+
 
     /**
      * TODO: Beschreibe deine Funktion hier
