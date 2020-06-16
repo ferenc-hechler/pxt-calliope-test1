@@ -27,7 +27,7 @@ namespace custom {
     //% block
     //% shim=custom::foo
     export function foo(s: string, f: number, e: MyEnum): void {
-        basic.showString("sim:foo 127")
+        basic.showString("sim:foo 129")
     }
 
     /**
