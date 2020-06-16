@@ -1,20 +1,20 @@
 {
-    "name": "pxt-calliope-test1",
-    "version": "1.1.3",
-    "description": "test1 typescript extension 16.05.2020 21:20",
-    "license": "MIT",
-    "dependencies": {
-        "core": "*"
-    },
-    "files": [
-        "README.md",
-        "custom.ts",
-        "custom.cpp",
-        "shim.d.ts"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/ferenc-hechler/pxt-calliope-test1.git"
-    },
-    "public": true
+	"name": "pxt-calliope-test1",
+	"version": "1.1.4",
+	"description": "test1 typescript extension 16.05.2020 21:25",
+	"license": "MIT",
+	"dependencies": {
+		"core": "*"
+	},
+	"files": [
+		"README.md",
+		"custom.ts",
+		"custom.cpp",
+		"shim.d.ts"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ferenc-hechler/pxt-calliope-test1.git"
+	},
+	"public": true
 }
