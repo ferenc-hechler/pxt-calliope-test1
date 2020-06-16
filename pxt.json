@@ -1,7 +1,7 @@
 {
 	"name": "pxt-calliope-test1",
-	"version": "1.2.0",
-	"description": "test1 typescript extension 16.05.2020 22:21",
+	"version": "1.2.1",
+	"description": "test1 typescript extension 16.05.2020 22:28",
 	"license": "MIT",
 	"dependencies": {
 		"core": "*"
