@@ -1,26 +1,19 @@
 # Test1 functionality
 
-Version: 1.0.7
+Version: 1.1.2
+Minimal runnable extension with c++ code.
 
-This MakeCode add-on allows the control of Modems/AT controlled hardware.
-It can be used by the [PXT Calliope mini editor](https://pxt.calliope.cc/). Should also work
-with PXT for Micro:bit.
+## custom blocks
 
-The code may be used as a starting point for similar AT based systems. Just add it as a 
-dependency in your modules `pxt.json`.
+see: https://www.hackster.io/MKlein/16-digitale-ein-ausgange-am-calliope-mini-custom-blocks-cd1e9e
 
-## Testing
-
-- Modify `tests.ts` to send packages to your own server.
-- Compile the test `pxt test` and copy `built/binary.hex` to the Calliope mini.
-
-## Meta
-
-- PXT/calliope
-- PXT/microbit
-
-Author: Matthias L. Jugel ([@thinkberg](https://twitter.com/thinkberg))
 
 ## License
 
 MIT
+
+## Supported targets
+
+- PXT/calliope
+- PXT/microbit
+

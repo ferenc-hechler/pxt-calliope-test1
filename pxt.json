@@ -1,21 +1,14 @@
 {
-    "name": "pxt-calliope-test1",
-    "version": "1.0.7",
-    "description": "test1 Functions",
+    "name": "pxt-calliope-test2",
+    "version": "1.1.2",
+    "description": "test1 typescript extension 16.05.2020 20:56",
     "license": "MIT",
     "dependencies": {
         "core": "*"
     },
     "files": [
         "README.md",
-        "modem.ts",
-        "ext_serial.cpp",
-        "ext_serial.ts",
-        "_locales/de/pxt-calliope-test1-jsdoc-strings.json",
-        "_locales/de/pxt-calliope-test1-strings.json"
-    ],
-    "testFiles": [
-        "tests.ts"
+        "custom.ts"
     ],
     "repository": {
         "type": "git",
