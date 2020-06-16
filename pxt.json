@@ -9,8 +9,7 @@
 	"files": [
 		"README.md",
 		"custom.ts",
-		"custom.cpp",
-		"shim.d.ts"
+		"custom.cpp"
 	],
 	"repository": {
 		"type": "git",
