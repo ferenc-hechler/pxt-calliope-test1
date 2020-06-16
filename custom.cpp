@@ -3,7 +3,7 @@
 namespace custom {
 
 //% shim=custom::foo
-void function foo(StringData* s, int f, int e): void {
+void foo(StringData* s, int f, int e): void {
     uBit.serial.send("foo called\r\n");
 }
 
